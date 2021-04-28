@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/vinrich10/ecommerce-backend#readme",
   "dependencies": {
-    "node": "^15.14.0"
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "node": "^15.14.0",
+    "sequelize": "^6.6.2"
   }
 }
